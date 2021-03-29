@@ -16,7 +16,7 @@ int main() {
     comp = randComputer(num);
 
     // user name & his decision
-    printf("Welcome %s\n", yourName(name));
+    printf("Welcome %s\n !", yourName(name));
     you = randUser();
     
     // let start the game
